@@ -28,7 +28,7 @@ public class RetryController {
 
 
     @Recover
-    public void recevor(RuntimeException e) {
+    public void recover(RuntimeException e) {
         logger.info("异常信息为：", e);
     }
 
