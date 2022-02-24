@@ -3,7 +3,6 @@ package com.zhz.justademo.biz.mapstruct.convert;
 import com.zhz.justademo.biz.mapstruct.model.AddressDO;
 import com.zhz.justademo.biz.mapstruct.model.AddressVO;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
 
 /**
